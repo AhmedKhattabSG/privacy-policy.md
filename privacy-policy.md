@@ -29,6 +29,8 @@ This app may contain links to external websites. We are not responsible for the 
 
 We implement security measures to safeguard your data against unauthorized access. However, please be aware that no transmission over the internet is fully secure, and we cannot guarantee absolute security.
 
+## Children's Privacy
+This app is not intended for children under the age of 13. We do not knowingly collect any personal information from children. If we discover that we have collected information from a child without our knowledge, we will delete it immediately.
 
 ## Changes To This Privacy Policy
 
