@@ -5,7 +5,7 @@ SmartGate takes your privacy seriously. To better protect your privacy, we provi
 
 We collect information to improve your experience and offer personalized features.
 Routine Information: We collect non-personal information, such as IP addresses, device type, operating system, usage details, and app interactions for analytics, app administration, and maintenance.
-User-Provided Information: We may collect personal information like your email address ,personal photo ,name ,your number  when you provide it for specific purposes, such as support or feedback.
+User-Provided Information: We may collect personal information like your email address ,personal photo ,name ,your phone number  when you provide it for specific purposes, such as support or feedback.
 
 ## Cookies
 
