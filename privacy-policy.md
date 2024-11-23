@@ -54,22 +54,6 @@ For occasional or one-time access, we utilize system pickers (e.g., Android Phot
 Policy Compliance
 Starting January 22, 2025, our app will comply with all requirements to access photos and videos only when essential for core app functionality. If additional time is required for compliance, extensions may be requested until May 28, 2025.
 
-## Medical Functionalities Policy
-We’re increasing the scope of the Medical Functionalities Policy to include the latest medical guidance and disclaimer requirements for health and medical apps. Specifically:
-
-The policy language has been updated to reflect the most recent medical standards and recommendations.
-
-Health-related policies have been consolidated under the Health Content and Services page.
-Purpose of Medical Data Collection
-If the app incorporates health or medical functionalities, it complies with medical guidelines to ensure that collected data is handled securely and only for its intended purposes.
-
-Disclaimers for Health and Medical Apps
-If the app provides health-related or medical advice, disclaimers will clearly state:
-
-That the app is not a substitute for professional medical advice, diagnosis, or treatment.
-Users should always consult a qualified healthcare provider for health concerns.
-For additional details, users are encouraged to review the Health Content and Services policy.
-
 
 ## Contact Information
 
