@@ -25,6 +25,14 @@ Advertising partners and other third parties may use cookies, scripts, and/or we
 
 This app may contain links to external websites. We are not responsible for the privacy policies or content of external sites. We advise reviewing the privacy policies of any third-party sites you visit.
 
+## Payment Using Fawry Codes
+Our app supports payments through Fawry codes for services or features that require payment. Here’s how we ensure compliance with Google's policies:
+
+Payment Transparency: Payments are processed outside of the app through the Fawry system. The app only facilitates the generation of the code, and the actual payment occurs externally.
+Non-Digital Purchases: Payments through Fawry codes are used exclusively for physical goods or services, or non-digital features that do not violate Google Play’s policies.
+User Guidance: Clear instructions on using Fawry codes for payments are provided within the app. These instructions ensure the user understands that payments occur outside Google Play’s billing system.
+
+
 ##  Data Security
 
 We implement security measures to safeguard your data against unauthorized access. However, please be aware that no transmission over the internet is fully secure, and we cannot guarantee absolute security.
